@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8370945951",
+    "firebase_url": "https://sivus-messenger.firebaseio.com",
+    "project_id": "sivus-messenger",
+    "storage_bucket": "sivus-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8370945951:android:236aed2756459a5a1b87aa",
+        "android_client_info": {
+          "package_name": "com.example.sivusmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8370945951-egs3pqv7scvrrvsgmfo3nn9d7d6o7lfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfh-VAFAU8mPOp5FIsXSCmiJKrifT7n3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8370945951-egs3pqv7scvrrvsgmfo3nn9d7d6o7lfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
